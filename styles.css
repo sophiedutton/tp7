@@ -20,6 +20,13 @@ ul ul {
 h1 {
   font-family: "Bebas Neue", cursive;
   text-align: center;
+  font-size: 65px;
+}
+
+h3 {
+  font-family: "Bebas Neue", cursive;
+  text-align: center;
+  font-size: 40px;
 }
 
 .highlight {
@@ -30,6 +37,16 @@ p {
   font-family: "Lato", sans-serif;
   text-align: center;
   font-size: 1.5em;
+}
+
+#nav {
+  background-color: #333;
+}
+
+#nav a {
+  color: #fff;
+  font-size: 80%;
+  padding-right: 2vw;
 }
 
 #directions li:nth-child(1) {
